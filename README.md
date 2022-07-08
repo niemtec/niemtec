@@ -1,5 +1,7 @@
 ## Hello World
 
+I'm a software developer wiht a Computer Science degree specialising in Artificial Intelligence.
+
 ```dart
 class Jakub extends SoftwareDeveloper {
   String name = "Jakub Niemiec";
