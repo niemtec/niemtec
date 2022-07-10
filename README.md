@@ -16,11 +16,11 @@ class Jakub extends SoftwareDeveloper {
 
 ![Niemtec's GitHub stats](https://github-readme-stats.vercel.app/api?username=niemtec&show_icons=true&theme=Gradient)
 
-### Top Languages in Current Repos
+<!-- ### Top Languages in Current Repos
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niemtec&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-### Wakatime
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=niemtec)](https://github.com/anuraghazra/github-readme-stats)
 
 
