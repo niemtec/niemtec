@@ -1,6 +1,4 @@
-## Hello World
-
-I'm a software developer wiht a Computer Science degree specialising in Artificial Intelligence. I'm currently working in the world of mobile app development using Flutter with a .NET Core micro-service backend glued together with GraphQL and gRPC. 
+![niemtec logo](https://niemtec.com/content/images/size/w2000/2022/07/Banner-5.png)
 
 👉 [See my blog](https://niemtec.com)
 
@@ -13,6 +11,8 @@ class Jakub extends SoftwareDeveloper {
   bool isCurrentlyCoding = true;
 }
 ```
+
+I'm a software developer wiht a Computer Science degree specialising in Artificial Intelligence. I'm currently working in the world of mobile app development using Flutter with a .NET Core micro-service backend glued together with GraphQL and gRPC. 
 
 ### Profile Rating
 
