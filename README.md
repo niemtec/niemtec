@@ -1,6 +1,8 @@
 ## Hello World
 
-I'm a software developer wiht a Computer Science degree specialising in Artificial Intelligence.
+I'm a software developer wiht a Computer Science degree specialising in Artificial Intelligence. I'm currently working in the world of mobile app development using Flutter with a .NET Core micro-service backend glued together with GraphQL and gRPC. 
+
+👉 [See my blog](https://niemtec.com)
 
 ```dart
 class Jakub extends SoftwareDeveloper {
