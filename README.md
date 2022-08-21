@@ -2,8 +2,6 @@
 
 👉 [See my blog](https://niemtec.com)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/niemtec)
-
 
 ```dart
 class Jakub extends SoftwareDeveloper {
