@@ -1,44 +1,24 @@
 ![niemtec logo](https://niemtec.com/content/images/size/w2000/2022/07/Banner-5.png)
 
-👉 [See my blog](https://niemtec.com)
+## Hi 👋 My name is Jakub  
+### Software Developer   
 
+I'm a software developer with a Computer Science degree specialising in Artificial Intelligence. I'm currently working in the world of mobile app development using Flutter with a .NET Core micro-service backend glued together with GraphQL and gRPC.
 
-```dart
-class Jakub extends SoftwareDeveloper {
-  String name = "Jakub Niemiec";
-  List<String> pronouns = ["he", "him"];
-  String role = "Software Developer";
-  List<String> mainLanguages = ["Flutter/Dart", "C#", "Python"];
-  bool isCurrentlyCoding = true;
-}
-```
+### Skills
 
-I'm a software developer wiht a Computer Science degree specialising in Artificial Intelligence. I'm currently working in the world of mobile app development using Flutter with a .NET Core micro-service backend glued together with GraphQL and gRPC. 
+<p align="left"> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a> <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a> </p> 
 
-### Profile Rating
+ ### Socials  
+ 
+ <p align="left"> <a href="https://www.dev.to/niemtec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/niemtec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jakub-niemiec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://niemtec.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/4826031" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+ 
 
-![Niemtec's GitHub stats](https://github-readme-stats.vercel.app/api?username=niemtec&show_icons=true&theme=Gradient)
+### Badges
 
-<!-- ### Top Languages in Current Repos
+<b>My GitHub Stats</b>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niemtec&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=niemtec)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-<!--
-**niemtec/niemtec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+<a href="http://www.github.com/niemtec"><img src="https://github-readme-stats.vercel.app/api?username=niemtec&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true&show_icons=true" alt="niemtec's GitHub stats" /></a>
+<a href="http://www.github.com/niemtec"><img src="https://github-readme-streak-stats.herokuapp.com/?user=niemtec&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="http://www.github.com/niemtec"><img src="https://activity-graph.herokuapp.com/graph?username=niemtec&bg_color=ffffff&color=000000&line=a855f7&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/niemtec" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niemtec&langs_count=10&title_color=3382ed&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
