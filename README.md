@@ -1,4 +1,3 @@
-![niemtec logo](https://niemtec.com/content/images/size/w2000/2022/07/Banner-5.png)
 
 ## Hi 👋
 
