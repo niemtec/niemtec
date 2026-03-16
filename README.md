@@ -1,4 +1,1 @@
-
-## Hi 👋
-
-I'm a software developer with a Computer Science degree specialising in Artificial Intelligence. I'm currently working in the world of mobile app development using Flutter, I have experience with .NET Core micro-service backend glued together with GraphQL and gRPC. I tinker with home automation and sometimes cobble together a post or two on my [blog](niemtec.com). 
+I'm a software developer with a Computer Science degree specialising in Artificial Intelligence. I work in mobile app development with Flutter, and I'm currently exploring Swift and iOS development. I tinker with home automation, obsess over knowledge systems, and occasionally cobble together a post or two on my blog.
